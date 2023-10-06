@@ -65,7 +65,7 @@ Translate into a language
 
 Click the Translate button at the top to translate the source language to all target languages.
 
-![I18n Studio translate value](images/translate-language.gif)
+![I18n Studio translate value](images/translate-all.gif)
 
 Return to Xcode to view, you can see that all translation content has been echoed to Xcode.
 
