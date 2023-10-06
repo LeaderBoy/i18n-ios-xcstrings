@@ -2,7 +2,7 @@
 //  i18n_ios_xcstringsUITests.swift
 //  i18n-ios-xcstringsUITests
 //
-//  Created by 杨志远 on 2023/10/6.
+//  Created by I18n Studio Team on 2023/10/6.
 //
 
 import XCTest

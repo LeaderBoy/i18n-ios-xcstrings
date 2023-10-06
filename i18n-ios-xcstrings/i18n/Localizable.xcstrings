@@ -1,0 +1,156 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "book" : {
+      "comment" : "Book",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld book"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld books"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld冊"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 本书"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "device" : {
+      "comment" : null,
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "iPhone"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mac"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Device"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "download_url" : {
+      "comment" : "Download URL",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https:\/\/i18n.studio"
+          }
+        }
+      }
+    },
+    "I18n Studio" : {
+      "comment" : "I18n Studio is the name of the application, please do not translate it",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I18n Studio released"
+          }
+        }
+      }
+    },
+    "image" : {
+      "comment" : "Images",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld iPhone Image"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld iPhone Images"
+                      }
+                    }
+                  }
+                }
+              },
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Mac Image"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Mac Images"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

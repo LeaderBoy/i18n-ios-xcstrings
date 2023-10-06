@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  i18n-ios-xcstrings
 //
-//  Created by 杨志远 on 2023/10/6.
+//  Created by I18n Studio Team on 2023/10/6.
 //
 
 import UIKit

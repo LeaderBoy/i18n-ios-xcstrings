@@ -16,6 +16,8 @@
 		529A19252ACF9EC6003FE7D8 /* i18n_ios_xcstringsTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529A19242ACF9EC6003FE7D8 /* i18n_ios_xcstringsTests.swift */; };
 		529A192F2ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529A192E2ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITests.swift */; };
 		529A19312ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 529A19302ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITestsLaunchTests.swift */; };
+		529A193F2ACF9F2F003FE7D8 /* Localizable.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 529A193E2ACF9F2F003FE7D8 /* Localizable.xcstrings */; };
+		529A19412ACF9F3C003FE7D8 /* Login.xcstrings in Resources */ = {isa = PBXBuildFile; fileRef = 529A19402ACF9F3C003FE7D8 /* Login.xcstrings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		529A192A2ACF9EC6003FE7D8 /* i18n-ios-xcstringsUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "i18n-ios-xcstringsUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		529A192E2ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = i18n_ios_xcstringsUITests.swift; sourceTree = "<group>"; };
 		529A19302ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = i18n_ios_xcstringsUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		529A193E2ACF9F2F003FE7D8 /* Localizable.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Localizable.xcstrings; sourceTree = "<group>"; };
+		529A19402ACF9F3C003FE7D8 /* Login.xcstrings */ = {isa = PBXFileReference; lastKnownFileType = text.json.xcstrings; path = Login.xcstrings; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +106,7 @@
 				529A190D2ACF9EC5003FE7D8 /* AppDelegate.swift */,
 				529A190F2ACF9EC5003FE7D8 /* SceneDelegate.swift */,
 				529A19112ACF9EC5003FE7D8 /* ViewController.swift */,
+				529A193D2ACF9F0B003FE7D8 /* i18n */,
 				529A19132ACF9EC5003FE7D8 /* Main.storyboard */,
 				529A19162ACF9EC6003FE7D8 /* Assets.xcassets */,
 				529A19182ACF9EC6003FE7D8 /* LaunchScreen.storyboard */,
@@ -125,6 +130,15 @@
 				529A19302ACF9EC6003FE7D8 /* i18n_ios_xcstringsUITestsLaunchTests.swift */,
 			);
 			path = "i18n-ios-xcstringsUITests";
+			sourceTree = "<group>";
+		};
+		529A193D2ACF9F0B003FE7D8 /* i18n */ = {
+			isa = PBXGroup;
+			children = (
+				529A193E2ACF9F2F003FE7D8 /* Localizable.xcstrings */,
+				529A19402ACF9F3C003FE7D8 /* Login.xcstrings */,
+			);
+			path = i18n;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -233,7 +247,9 @@
 			files = (
 				529A191A2ACF9EC6003FE7D8 /* LaunchScreen.storyboard in Resources */,
 				529A19172ACF9EC6003FE7D8 /* Assets.xcassets in Resources */,
+				529A193F2ACF9F2F003FE7D8 /* Localizable.xcstrings in Resources */,
 				529A19152ACF9EC5003FE7D8 /* Main.storyboard in Resources */,
+				529A19412ACF9F3C003FE7D8 /* Login.xcstrings in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
