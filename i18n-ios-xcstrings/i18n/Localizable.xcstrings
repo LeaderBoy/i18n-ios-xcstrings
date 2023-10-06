@@ -29,7 +29,7 @@
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld冊"
+                  "value" : "%lld冊の本"
                 }
               }
             }
