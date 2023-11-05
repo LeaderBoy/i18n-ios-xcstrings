@@ -368,7 +368,7 @@
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "aa"
+            "value" : "CCCCC"
           }
         },
         "fr" : {
@@ -464,7 +464,6 @@
       }
     },
     "⚠️ If you can't find it, please restart your phone and try again." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -578,7 +577,6 @@
       }
     },
     "1234567890 (Default)" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -692,7 +690,6 @@
       }
     },
     "① From the Home Screen, touch and hold a widget or an empty area until the apps jiggle.\nTap the Add button Gray add button + in the upper-left corner." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -806,7 +803,6 @@
       }
     },
     "② Search and tap \"Desktop Calculator\", you may need to restart your phone to find it." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -920,7 +916,6 @@
       }
     },
     "③ Tap \"Add Widget\", then tap \"Done\"." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1034,7 +1029,6 @@
       }
     },
     "④ Now, calculate anytime without open app." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1148,7 +1142,6 @@
       }
     },
     "Add desktop widget?" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1262,7 +1255,6 @@
       }
     },
     "Advanced Settings" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1376,7 +1368,6 @@
       }
     },
     "App Settings" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1490,7 +1481,6 @@
       }
     },
     "Are you influencer?" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1718,7 +1708,6 @@
       }
     },
     "Calc Again" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -1832,7 +1821,6 @@
       }
     },
     "Calculator" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2060,7 +2048,6 @@
       }
     },
     "Calculator Settings" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2174,7 +2161,6 @@
       }
     },
     "Calculator Themes" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2288,7 +2274,6 @@
       }
     },
     "Clear History" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2402,7 +2387,6 @@
       }
     },
     "Click" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2516,7 +2500,6 @@
       }
     },
     "Click-through Issue?" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2630,7 +2613,6 @@
       }
     },
     "Contact Developer" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2744,7 +2726,6 @@
       }
     },
     "Contact Us" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2858,7 +2839,6 @@
       }
     },
     "Copied" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -2972,7 +2952,6 @@
       }
     },
     "Copy" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3086,7 +3065,6 @@
       }
     },
     "Copy All" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3200,7 +3178,6 @@
       }
     },
     "Copy Equation" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3314,7 +3291,6 @@
       }
     },
     "Copy Result" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3428,7 +3404,6 @@
       }
     },
     "Current Locale" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3542,7 +3517,6 @@
       }
     },
     "Custom" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3656,7 +3630,6 @@
       }
     },
     "Custom Theme UI" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3770,7 +3743,6 @@
       }
     },
     "Da" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3884,7 +3856,6 @@
       }
     },
     "Dang" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -3998,7 +3969,6 @@
       }
     },
     "Debug" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4112,7 +4082,6 @@
       }
     },
     "Decimal Precision" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4226,7 +4195,6 @@
       }
     },
     "Default Voice" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4340,7 +4308,6 @@
       }
     },
     "Delete" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4454,7 +4421,6 @@
       }
     },
     "Delete All" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4568,7 +4534,6 @@
       }
     },
     "Desktop Calculator" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4682,7 +4647,6 @@
       }
     },
     "Done" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4796,7 +4760,6 @@
       }
     },
     "Due to system limitation, when you click too fast on the widget, there may be a problem of clicking through to open the main app, please just slow down the speed of clicking, we will continue to optimize this issue." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -4910,7 +4873,6 @@
       }
     },
     "Enable Sound" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5024,7 +4986,6 @@
       }
     },
     "Export Log" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5138,7 +5099,6 @@
       }
     },
     "Family Sharing" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5252,7 +5212,6 @@
       }
     },
     "Feedback" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5480,7 +5439,6 @@
       }
     },
     "Font Name" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5594,7 +5552,6 @@
       }
     },
     "Font Size" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5708,7 +5665,6 @@
       }
     },
     "Font Type" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5822,7 +5778,6 @@
       }
     },
     "Fonts" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -5936,7 +5891,6 @@
       }
     },
     "Function BG Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6050,7 +6004,6 @@
       }
     },
     "Function Text Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6164,7 +6117,6 @@
       }
     },
     "Future cool features" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6278,7 +6230,6 @@
       }
     },
     "Get Pro" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6392,7 +6343,6 @@
       }
     },
     "Give network permission for more themes >" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6506,7 +6456,6 @@
       }
     },
     "Glass" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6620,7 +6569,6 @@
       }
     },
     "Global Sound" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6734,7 +6682,6 @@
       }
     },
     "Guzheng" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6848,7 +6795,6 @@
       }
     },
     "Haptic" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -6962,7 +6908,6 @@
       }
     },
     "Haptic Type" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7076,7 +7021,6 @@
       }
     },
     "Haptics" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7190,7 +7134,6 @@
       }
     },
     "Heavy" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7304,7 +7247,6 @@
       }
     },
     "Help Docs" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7418,7 +7360,6 @@
       }
     },
     "Hide" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7532,7 +7473,6 @@
       }
     },
     "How to add desktop widget?" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7646,7 +7586,6 @@
       }
     },
     "How to add widget?" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7760,7 +7699,6 @@
       }
     },
     "https:\/\/desktop-calculator.com\/contact\/" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7874,7 +7812,6 @@
       }
     },
     "Human Voice" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -7988,7 +7925,6 @@
       }
     },
     "Include system log." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8102,7 +8038,6 @@
       }
     },
     "Keyboard 1" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8216,7 +8151,6 @@
       }
     },
     "Keyboard 2" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8330,7 +8264,6 @@
       }
     },
     "Language" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8444,7 +8377,6 @@
       }
     },
     "Learn about Pro" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8558,7 +8490,6 @@
       }
     },
     "Lifetime Purchase(No Subscription)" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8672,7 +8603,6 @@
       }
     },
     "Lifetime updates" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8786,7 +8716,6 @@
       }
     },
     "Light" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -8900,7 +8829,6 @@
       }
     },
     "Logging" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9014,7 +8942,6 @@
       }
     },
     "Main Background" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9128,7 +9055,6 @@
       }
     },
     "Manage your History, Sounds, Themes here. You can also long-press on individual history items for management or calculate the sum." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9242,7 +9168,6 @@
       }
     },
     "Mandarin Female" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9356,7 +9281,6 @@
       }
     },
     "Mandarin Male" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9470,7 +9394,6 @@
       }
     },
     "Mandarin Physical" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9584,7 +9507,6 @@
       }
     },
     "Margin" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9698,7 +9620,6 @@
       }
     },
     "Medium" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9812,7 +9733,6 @@
       }
     },
     "More" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -9926,7 +9846,6 @@
       }
     },
     "Musical Instruments" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10040,7 +9959,6 @@
       }
     },
     "Mute Sound" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10154,7 +10072,6 @@
       }
     },
     "Network error, Retry" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10268,7 +10185,6 @@
       }
     },
     "None" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10382,7 +10298,6 @@
       }
     },
     "Number BG Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10496,7 +10411,6 @@
       }
     },
     "Number Preview" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10610,7 +10524,6 @@
       }
     },
     "Number Text Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10724,7 +10637,6 @@
       }
     },
     "OK" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10838,7 +10750,6 @@
       }
     },
     "Operation BG Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -10952,7 +10863,6 @@
       }
     },
     "Operation Text Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11066,7 +10976,6 @@
       }
     },
     "Other Apps" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11180,7 +11089,6 @@
       }
     },
     "Permission" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11294,7 +11202,6 @@
       }
     },
     "Piano" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11408,7 +11315,6 @@
       }
     },
     "Press Calculator Button" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11522,7 +11428,6 @@
       }
     },
     "Prevent Lock" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11636,7 +11541,6 @@
       }
     },
     "Preventing Screen Lock" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11714,7 +11618,6 @@
       }
     },
     "Privacy" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11828,7 +11731,6 @@
       }
     },
     "Pro Unlocked 🎉" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -11942,7 +11844,6 @@
       }
     },
     "Quick Toolbox" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12056,7 +11957,6 @@
       }
     },
     "Radius" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12170,7 +12070,6 @@
       }
     },
     "Random Sound" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12284,7 +12183,6 @@
       }
     },
     "Random Theme" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12398,7 +12296,6 @@
       }
     },
     "Read Result" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12512,7 +12409,6 @@
       }
     },
     "Refresh All Json" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12626,7 +12522,6 @@
       }
     },
     "Remove pro now" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12740,7 +12635,6 @@
       }
     },
     "Restore" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12854,7 +12748,6 @@
       }
     },
     "Result Font Size" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -12968,7 +12861,6 @@
       }
     },
     "Result Read Volume" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13082,7 +12974,6 @@
       }
     },
     "Result Text Color" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13196,7 +13087,6 @@
       }
     },
     "Review us (๑•ᴗ•๑)" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13310,7 +13200,6 @@
       }
     },
     "Review with 5-Star (๑•ᴗ•๑)" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13424,7 +13313,6 @@
       }
     },
     "Settings" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13538,7 +13426,6 @@
       }
     },
     "SFPro-Regular (Default)" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13652,7 +13539,6 @@
       }
     },
     "Share with Friends🎁" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13766,7 +13652,6 @@
       }
     },
     "Show History" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13880,7 +13765,6 @@
       }
     },
     "Sound Effects" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -13994,7 +13878,6 @@
       }
     },
     "Sound Enabled" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14108,7 +13991,6 @@
       }
     },
     "Sound is loading..." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14222,7 +14104,6 @@
       }
     },
     "Sound Muted" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14336,7 +14217,6 @@
       }
     },
     "Sound Settings" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14450,7 +14330,6 @@
       }
     },
     "Sound Type" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14564,7 +14443,6 @@
       }
     },
     "Sounds" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14678,7 +14556,6 @@
       }
     },
     "Spacing" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14792,7 +14669,6 @@
       }
     },
     "Sum All" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -14906,7 +14782,6 @@
       }
     },
     "Support Us" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15020,7 +14895,6 @@
       }
     },
     "Switch 1" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15134,7 +15008,6 @@
       }
     },
     "Switch 2" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15248,7 +15121,6 @@
       }
     },
     "Switch 3" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15362,7 +15234,6 @@
       }
     },
     "Switch 4" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15476,7 +15347,6 @@
       }
     },
     "System Default" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15590,7 +15460,6 @@
       }
     },
     "Telephone" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15704,7 +15573,6 @@
       }
     },
     "Terms" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15818,7 +15686,6 @@
       }
     },
     "Test" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -15932,7 +15799,6 @@
       }
     },
     "Themes (%lld)" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16046,7 +15912,6 @@
       }
     },
     "Thousandths Comma" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16160,7 +16025,6 @@
       }
     },
     "Tick 1" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16274,7 +16138,6 @@
       }
     },
     "Tick 2" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16388,7 +16251,6 @@
       }
     },
     "Tick 3" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16502,7 +16364,6 @@
       }
     },
     "Tips" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16616,7 +16477,6 @@
       }
     },
     "Unlike the button volume, Results Read Volume is the same as the system volume, which you can adjust with the physical keys of the device." : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16730,7 +16590,6 @@
       }
     },
     "Unlock all advanced settings" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16844,7 +16703,6 @@
       }
     },
     "Unlock all fonts" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -16958,7 +16816,6 @@
       }
     },
     "Unlock all sounds" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17072,7 +16929,6 @@
       }
     },
     "Unlock all themes" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17186,7 +17042,6 @@
       }
     },
     "Upgrade to Pro" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17300,7 +17155,6 @@
       }
     },
     "Version" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17414,7 +17268,6 @@
       }
     },
     "Waterdroplet 1" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17528,7 +17381,6 @@
       }
     },
     "Waterdroplet 2" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17642,7 +17494,6 @@
       }
     },
     "Waterdroplet 3" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17756,7 +17607,6 @@
       }
     },
     "Woodenfish 1" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17870,7 +17720,6 @@
       }
     },
     "Woodenfish 2" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -17984,7 +17833,6 @@
       }
     },
     "Woodenfish 3" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -18098,7 +17946,6 @@
       }
     },
     "Woodenfish 4" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
@@ -18212,7 +18059,6 @@
       }
     },
     "Woodenfish 5" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
         "ar" : {
