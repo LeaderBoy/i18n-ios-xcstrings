@@ -1,54 +1,425 @@
 {
-  "sourceLanguage" : "en",
   "strings" : {
-    "password" : {
-      "comment" : "Password",
-      "extractionState" : "manual",
+    "wish" : {
+      "comment" : "我希望",
       "localizations" : {
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Saya harap ...\""
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「私は願う...」"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "value" : "\"أتمنى ...\"",
+            "state" : "translated"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "我希望..."
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"나는 바란다 ...\""
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"Ich wünsche ...\""
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "\"ฉันหวังว่า ...\""
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「我希望...」"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Password"
+            "value" : "\"I wish ...\""
           }
         }
-      }
-    },
-    "sign_in" : {
-      "comment" : "Sign In",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "Sign In"
-          }
-        }
-      }
+      },
+      "extractionState" : "manual"
     },
     "sign_up" : {
-      "comment" : "Sign Up",
       "extractionState" : "manual",
       "localizations" : {
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Daftar"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "value" : "Registrieren",
+            "state" : "translated"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "สมัครสมาชิก"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "value" : "التسجيل",
+            "state" : "translated"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サインアップ"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "注册"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sign Up"
           }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "註冊"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "회원 가입"
+          }
         }
-      }
+      },
+      "comment" : "Sign Up"
+    },
+    "sign_in" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "value" : "로그인",
+            "state" : "translated"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "value" : "登录",
+            "state" : "translated"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登入"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "value" : "サインイン",
+            "state" : "translated"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sign In"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Anmelden"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "value" : "Log Masuk",
+            "state" : "translated"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "تسجيل الدخول"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "เข้าสู่ระบบ"
+          }
+        }
+      },
+      "comment" : "Sign In"
+    },
+    "widget" : {
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "value" : "위젯",
+            "state" : "translated"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "value" : "ウィジェット",
+            "state" : "translated"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "value" : "小工具",
+            "state" : "translated"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "value" : "widget",
+            "state" : "translated"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "value" : "วิดเจ็ต",
+            "state" : "translated"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ودجة"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "value" : "Widget",
+            "state" : "translated"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "value" : "widget",
+            "state" : "translated"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "value" : "小部件",
+            "state" : "translated"
+          }
+        }
+      },
+      "extractionState" : "manual"
+    },
+    "all_free_version_features" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有免费版本特性"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "모든 무료 버전 기능"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Semua ciri Versi Percuma."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべての無料バージョンの機能。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alle kostenlosen Version Funktionen."
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "value" : "คุณลักษณะทั้งหมดของเวอร์ชันฟรี",
+            "state" : "translated"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "value" : "جميع ميزات الإصدار المجاني.",
+            "state" : "translated"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "所有免費版本功能。"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "All Free Version features."
+          }
+        }
+      },
+      "comment" : "所有免费版本中的特性"
     },
     "user_name" : {
       "comment" : "Please use capital letters for the first letters of words",
-      "extractionState" : "manual",
       "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "사용자 이름"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "使用者名稱"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "value" : "Benutzername",
+            "state" : "translated"
+          }
+        },
         "en" : {
           "stringUnit" : {
             "state" : "translated",
             "value" : "User Name"
           }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "value" : "اسم المستخدم",
+            "state" : "translated"
+          }
+        },
+        "th" : {
+          "stringUnit" : {
+            "value" : "ชื่อผู้ใช้",
+            "state" : "translated"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "value" : "ユーザー名",
+            "state" : "translated"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "value" : "Nama Pengguna",
+            "state" : "translated"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "用户名"
+          }
         }
-      }
+      },
+      "extractionState" : "manual"
+    },
+    "password" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "th" : {
+          "stringUnit" : {
+            "value" : "รหัสผ่าน",
+            "state" : "translated"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "كلمة السر"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密碼"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "비밀번호"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Kata Laluan"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "密码"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "value" : "Passwort",
+            "state" : "translated"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "value" : "Password",
+            "state" : "translated"
+          }
+        }
+      },
+      "comment" : "Password"
     }
   },
-  "version" : "1.0"
+  "version" : "1.0",
+  "sourceLanguage" : "en"
 }

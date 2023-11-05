@@ -1,23 +1,425 @@
 {
   "sourceLanguage" : "en",
   "strings" : {
+    "image" : {
+      "localizations" : {
+        "ar" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "٪lld صور iPhone"
+                      }
+                    }
+                  }
+                }
+              },
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "٪lld صورة ماك"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ms" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Imej iPhone"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Imej iPhone"
+                      }
+                    }
+                  }
+                }
+              },
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Imej Mac"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "value" : "%lld Imej Mac",
+                        "state" : "translated"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld 아이폰 이미지들"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "value" : "%lld 아이폰 이미지",
+                        "state" : "translated"
+                      }
+                    }
+                  }
+                }
+              },
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld 맥 이미지들"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "value" : "%lld 맥 이미지",
+                        "state" : "translated"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "zh-TW" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld 張 Mac 圖片"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld 張 Mac 圖片"
+                      }
+                    }
+                  }
+                }
+              },
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld 張 iPhone 圖片"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "value" : "%lld 張 iPhone 圖片",
+                        "state" : "translated"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "value" : "%lld iPhone图片",
+                        "state" : "translated"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld iPhone 图片"
+                      }
+                    }
+                  }
+                }
+              },
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "value" : "%lld Mac 图像",
+                        "state" : "translated"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Mac 图像"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Mac 画像"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Mac 画像"
+                      }
+                    }
+                  }
+                }
+              },
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "value" : "%lld iPhone 画像",
+                        "state" : "translated"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "de" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld iPhone Bild"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "device" : {
+              "iphone" : {
+                "variations" : {
+                  "plural" : {
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld iPhone Images"
+                      }
+                    },
+                    "one" : {
+                      "stringUnit" : {
+                        "value" : "%lld iPhone Image",
+                        "state" : "translated"
+                      }
+                    }
+                  }
+                }
+              },
+              "mac" : {
+                "variations" : {
+                  "plural" : {
+                    "one" : {
+                      "stringUnit" : {
+                        "value" : "%lld Mac Image",
+                        "state" : "translated"
+                      }
+                    },
+                    "other" : {
+                      "stringUnit" : {
+                        "state" : "translated",
+                        "value" : "%lld Mac Images"
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      },
+      "comment" : "Images",
+      "extractionState" : "manual"
+    },
     "book" : {
       "comment" : "Book",
       "extractionState" : "manual",
       "localizations" : {
-        "en" : {
+        "ko" : {
           "variations" : {
             "plural" : {
               "one" : {
                 "stringUnit" : {
                   "state" : "translated",
-                  "value" : "%lld book"
+                  "value" : "%lld 권의 책"
                 }
               },
               "other" : {
                 "stringUnit" : {
                   "state" : "translated",
+                  "value" : "%lld 권의 책들"
+                }
+              }
+            }
+          }
+        },
+        "de" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "value" : "%lld Buch",
+                  "state" : "translated"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld Bücher"
+                }
+              }
+            }
+          }
+        },
+        "zh-Hans" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "value" : "%lld 本书",
+                  "state" : "translated"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "plural" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
                   "value" : "%lld books"
+                }
+              },
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld book"
+                }
+              }
+            }
+          }
+        },
+        "ms" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld buku"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld buku"
+                }
+              }
+            }
+          }
+        },
+        "zh-TW" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "value" : "%lld 本書",
+                  "state" : "translated"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld 本書"
+                }
+              }
+            }
+          }
+        },
+        "ar" : {
+          "variations" : {
+            "plural" : {
+              "one" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "%lld كتاب"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "value" : "%lld كتب",
+                  "state" : "translated"
                 }
               }
             }
@@ -34,34 +436,277 @@
               }
             }
           }
+        }
+      }
+    },
+    "download_url" : {
+      "comment" : "Download URL",
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "value" : "https:\/\/i18n.studio",
+            "state" : "translated"
+          }
+        },
+        "ms" : {
+          "stringUnit" : {
+            "value" : "https:\/\/i18n.studio",
+            "state" : "translated"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https:\/\/i18n.studio"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https:\/\/i18n.studio"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https:\/\/i18n.studio"
+          }
         },
         "zh-Hans" : {
-          "variations" : {
-            "plural" : {
-              "one" : {
-                "stringUnit" : {
-                  "state" : "translated",
-                  "value" : "%lld 本书"
-                }
-              }
-            }
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "https:\/\/i18n.studio"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "value" : "https:\/\/i18n.studio",
+            "state" : "translated"
+          }
+        }
+      }
+    },
+    "key2" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "de" : {
+          "stringUnit" : {
+            "value" : "du bist ein \"schönes\" Mädchen",
+            "state" : "translated"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたは「美しい」女の子です"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "value" : "you are a \"beautiful\" girl",
+            "state" : "translated"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "당신은 \"아름다운\" 여자입니다"
+          }
+        }
+      }
+    },
+    "key" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "value"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "값"
+          }
+        }
+      },
+      "extractionState" : "manual"
+    },
+    "I18n Studio" : {
+      "extractionState" : "manual",
+      "comment" : "I18n Studio is the name of the application, please do not translate it",
+      "localizations" : {
+        "ms" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I18n Studio telah dikeluarkan"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I18n Studio发布了"
+          }
+        },
+        "zh-TW" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I18n Studio 發布"
+          }
+        },
+        "en" : {
+          "stringUnit" : {
+            "value" : "I18n Studio released",
+            "state" : "translated"
+          }
+        },
+        "ar" : {
+          "stringUnit" : {
+            "value" : "تم إصدار I18n Studio",
+            "state" : "translated"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "value" : "I18n Studio가 출시되었습니다",
+            "state" : "translated"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "I18nスタジオがリリースされました"
           }
         }
       }
     },
     "device" : {
-      "comment" : null,
       "extractionState" : "manual",
       "localizations" : {
-        "en" : {
+        "de" : {
           "variations" : {
             "device" : {
+              "iphone" : {
+                "stringUnit" : {
+                  "value" : "iPhone",
+                  "state" : "translated"
+                }
+              }
+            }
+          }
+        },
+        "zh-TW" : {
+          "variations" : {
+            "device" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "設備"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Mac"
+                }
+              },
               "iphone" : {
                 "stringUnit" : {
                   "state" : "translated",
                   "value" : "iPhone"
                 }
+              }
+            }
+          }
+        },
+        "ar" : {
+          "variations" : {
+            "device" : {
+              "other" : {
+                "stringUnit" : {
+                  "value" : "الجهاز",
+                  "state" : "translated"
+                }
               },
+              "mac" : {
+                "stringUnit" : {
+                  "value" : "ماك",
+                  "state" : "translated"
+                }
+              }
+            }
+          }
+        },
+        "ko" : {
+          "variations" : {
+            "device" : {
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "장치"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "아이폰"
+                }
+              },
+              "mac" : {
+                "stringUnit" : {
+                  "value" : "맥",
+                  "state" : "translated"
+                }
+              }
+            }
+          }
+        },
+        "ms" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "value" : "Mac",
+                  "state" : "translated"
+                }
+              },
+              "iphone" : {
+                "stringUnit" : {
+                  "value" : "iPhone",
+                  "state" : "translated"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "Peranti"
+                }
+              }
+            }
+          }
+        },
+        "ja" : {
+          "variations" : {
+            "device" : {
+              "mac" : {
+                "stringUnit" : {
+                  "value" : "マック",
+                  "state" : "translated"
+                }
+              },
+              "other" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "デバイス"
+                }
+              }
+            }
+          }
+        },
+        "en" : {
+          "variations" : {
+            "device" : {
               "mac" : {
                 "stringUnit" : {
                   "state" : "translated",
@@ -73,77 +718,11 @@
                   "state" : "translated",
                   "value" : "Device"
                 }
-              }
-            }
-          }
-        }
-      }
-    },
-    "download_url" : {
-      "comment" : "Download URL",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "https:\/\/i18n.studio"
-          }
-        }
-      }
-    },
-    "I18n Studio" : {
-      "comment" : "I18n Studio is the name of the application, please do not translate it",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "stringUnit" : {
-            "state" : "translated",
-            "value" : "I18n Studio released"
-          }
-        }
-      }
-    },
-    "image" : {
-      "comment" : "Images",
-      "extractionState" : "manual",
-      "localizations" : {
-        "en" : {
-          "variations" : {
-            "device" : {
-              "iphone" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%lld iPhone Image"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%lld iPhone Images"
-                      }
-                    }
-                  }
-                }
               },
-              "mac" : {
-                "variations" : {
-                  "plural" : {
-                    "one" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%lld Mac Image"
-                      }
-                    },
-                    "other" : {
-                      "stringUnit" : {
-                        "state" : "translated",
-                        "value" : "%lld Mac Images"
-                      }
-                    }
-                  }
+              "iphone" : {
+                "stringUnit" : {
+                  "state" : "translated",
+                  "value" : "iPhone"
                 }
               }
             }
