@@ -35,6 +35,13 @@ At this time, I18n Studio will load and display the .xcstrings file in the proje
 
 ![I18n Studio display key-value pairs](images/load-xcstrings.webp)
 
+
+**Xcode 16**
+
+You may encounter the "Internationalization folder not found" error because Xcode 16 and above removed certain readable content from the project.pbxproj file. To fix this, right-click the root directory in Xcode, select "Convert to Group," and Then, follow the steps to "**Load key-value pairs from .xcstrings files**" to ensure it is read correctly.
+
+![I18n Studio translate value](images/fix-xcode16.png)
+
 #### Translate
 
 Click the language selection button at the top of I18n Studio to select the source language of the project. When translating, you need to translate it into other languages. The default is English.
@@ -89,9 +96,7 @@ cmd + f to search data
 
  If you have any questions or feedback,please feel free to contact us.
 
-Email(Prefer): [support@i18n.studio](mailto:support@i18n.studio)
-
-Telegram: [https://t.me/+tXj3CynRslIwZDY1](https://t.me/+tXj3CynRslIwZDY1)
+Email(Prefer): [baqiwl@gmail.com](mailto:baqiwl@gmail.com)
 
 ## License
 
